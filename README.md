@@ -1,5 +1,5 @@
 # About Me:
-👨‍💻 I’m currently learning Java<br>🧑‍💼 I’m looking to for a job<br>🤝 I’m allays happy to help anyone<br>💬 You can contact me on gmail: ivangricev25@gmail.com<br>⚡ Fun fact: I believe that programmers are very similar to wizards 🧙‍♂️👨‍💻
+👨‍💻 I’m currently learning Java<br>🧑‍💼 I’m working as microsoft dynamics 365 dev<br>🤝 I’m allays happy to help anyone<br>💬 You can contact me on gmail: ivangricev25@gmail.com<br>⚡ Fun fact: I believe that programmers are very similar to wizards 🧙‍♂️👨‍💻
 
 
 ## 🌐 Socials:
